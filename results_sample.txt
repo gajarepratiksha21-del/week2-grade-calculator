@@ -1,0 +1,27 @@
+================================================================================
+              STUDENT GRADE CALCULATOR RESULTS
+================================================================================
+
+Name: John Smith
+Math: 85.0
+Science: 92.0
+English: 88.0
+Average: 88.33
+Grade: B
+Comment: Very Good! You're doing well.
+--------------------------------------------------------------------------------
+Name: Sarah Johnson
+Math: 78.0
+Science: 81.0
+English: 85.0
+Average: 81.33
+Grade: B
+Comment: Very Good! You're doing well.
+--------------------------------------------------------------------------------
+
+CLASS STATISTICS
+================================================================================
+Total Students: 2
+Class Average: 84.83
+Highest Average: 88.33
+Lowest Average: 81.33
